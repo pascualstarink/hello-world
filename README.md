@@ -1,7 +1,7 @@
 # hello-world
 Hello there
 
-This is a new edit to:
+Goals for this one:
 
 - Test branching
 
